@@ -1,0 +1,87 @@
+/* Estilos personalizados */
+body{
+  background: url("img/restaurante1.jpg") no-repeat center center/cover;
+}
+.navbar {
+    background-color: #808488;
+}
+.navbar-brand {
+    display: flex;
+}
+.menu-section {
+    padding: 50px;
+}
+.gallery-section {
+    padding: 50px;
+    background-color: #f8f9fa15;
+}
+.contact-section {
+    padding: 50px;
+}
+.menu-section {
+    padding: 20px;
+  }
+  
+  .menu-category {
+    margin-bottom: 10px;
+  }
+  
+  .menu-item {
+    margin-bottom: 5px;
+  }
+  
+  .menu-item img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .gallery-section {
+    padding: 5px;
+    flex-direction: column;
+  }
+  
+  .gallery-item {
+    margin-bottom: 10px;
+  }
+  
+  .gallery-item img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .contact-section {
+    padding: 20px;
+  }
+  
+  .contact-details p {
+    margin-bottom: 10px;
+  }
+  
+  .social-media img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+  }
+
+  h2{
+    color: beige;
+  }
+  h3{
+    color: azure;
+  }
+  h4{
+    color: beige;
+  }
+  p{
+    color: bisque;
+  }
+
+  img{
+    height: 80px;
+    width: 80px;
+  }
+
+  .img2{
+    height: 70px;
+    width: 100px;
+  }
